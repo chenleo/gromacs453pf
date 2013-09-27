@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
                Welcome to the official version of GROMACS!
 
@@ -76,3 +77,7 @@ Don't hesitate to contact us at gromacs@gromacs.org if you are interested.
 
 
 
+=======
+gromacs453pf
+============
+>>>>>>> 98ee607e1dfe401f59ca95663d9c85dd3e200c3b
