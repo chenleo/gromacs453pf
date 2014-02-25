@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+# Modified gromacs version from whoever.
+
+> This version is no longer official version any more, but still keep the instruction for lazy reason.
+> Some time years of programming experience only proved that someone should give up his keyboard much earlier.
+
 
                Welcome to the official version of GROMACS!
 
